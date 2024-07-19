@@ -1,3 +1,4 @@
+#This code could be much more upgraded in the future.
 """ Import the master rockstar first of all """
 import cv2 as cv
 """ Import numpy lib for kernel operations """
