@@ -1,3 +1,4 @@
+#This code could be much more upgraded in the future.
 # Simplified Space Debris Collision Avoidance Example (Using Libraries)
 
 import math
